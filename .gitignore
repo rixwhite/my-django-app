@@ -13,7 +13,7 @@ django_v/
 db.sqlite3
 
 # Static folder
-static/
+# static/
 
 # macOS
 ._*
